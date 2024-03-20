@@ -1,5 +1,7 @@
 <div>
   <h1> Hi, I am Suji 👋 </h1>
+
+  <h4>🌿 Tech Stacks</h4>
   
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -11,6 +13,16 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)</br></br>
 
 </div>
+
+<h4>🌿 Contact</h4>
+<div>
+<a href="mailto:suji.sujeongji@gmail.com">suji.sujeongji@gmail.com</a>
+</div>
+
+<div><h1></h1></div></br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruadarach&hide_progress=true)
+
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=bruadarach&style=plastic" alt="Visitor">
 </div>

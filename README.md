@@ -16,7 +16,9 @@
 
 <h4>🌿 Contact</h4>
 <div>
-<a href="mailto:suji.sujeongji@gmail.com">suji.sujeongji@gmail.com</a>
+<a href="mailto:suji.sujeongji@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </div>
 
 <div><h1></h1></div></br>
